@@ -5,7 +5,7 @@ public class SellButton extends Button
 {
     
     private final TowerPlace towerPlace;
-    private int something;
+    private int something = 10;
     private Level world;
     
     private final int price;
